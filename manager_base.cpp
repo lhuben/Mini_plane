@@ -3,7 +3,7 @@
 ManagerBase* ManagerBase::manager_ = NULL;
 ManagerBase::ManagerBase()
 {
-
+	
 }
 
 ManagerBase::~ManagerBase()
